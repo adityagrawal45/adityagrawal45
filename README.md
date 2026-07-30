@@ -4,17 +4,21 @@
 
 <br>
 
+[![Website](https://img.shields.io/badge/Website-FF6A3D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-aditya-agrawal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-agrawal-65b59120b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalwadi45@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityagrawal45)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Adityagrawal45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6A3D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-aditya-agrawal.vercel.app/)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agrawaladi45)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@adityagrawal45)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/adityagrawal45)
 
 </div>
 
 ---
 
-### 👋 About me
+### ⚡ About me
 
 I'm a **Software Engineer at Accenture**, building production AI systems at the
 intersection of backend engineering and applied ML. Most recently I shipped a
@@ -28,9 +32,20 @@ trust what an AI system is actually doing in production.
 - 🔭 Currently building **[LLM Cost Autopilot](https://github.com/adityagrawal45/llm-cost-autopilot)** — a routing layer that classifies request complexity and auto-routes to the cheapest model that can handle it, cutting inference costs by up to **70%**
 - 🧠 Focus areas: **RAG · multi-model routing · agentic workflows · vector retrieval · cost optimization**
 - 🛠️ Day-to-day stack: **Python, FastAPI, LangChain, Spring Boot, Angular**
+- ✍️ I write about AI infra, LLM systems, and backend engineering — links below
 - 📍 Based in Mumbai, India
-- 💬 Always happy to talk about LLM infrastructure, cost/quality trade-offs in AI systems, or backend architecture in general
 - 🤝 Open to: collaborations on AI/ML projects, technical discussions, and open-source contributions
+
+---
+
+### ✍️ Where I write
+
+| Platform | Link | What's there |
+|---|---|---|
+| 🌐 **Website / Portfolio** | [portfolio-website-aditya-agrawal.vercel.app](https://portfolio-website-aditya-agrawal.vercel.app/) | Projects, resume, everything in one place |
+| 📝 **Medium** | [@agrawaladi45](https://medium.com/@agrawaladi45) | Deep dives on AI/LLM system design |
+| 🐦‍⬛ **Hashnode** | [@adityagrawal45](https://hashnode.com/@adityagrawal45) | Backend + AI engineering notes |
+| 💻 **Dev.to** | [@adityagrawal45](https://dev.to/adityagrawal45) | Quick tips, tutorials, and dev logs |
 
 ---
 
@@ -190,7 +205,7 @@ If you have an interesting project or just want to chat about AI infrastructure,
 
 **Let's build something amazing together! 🚀**
 
-📫 Reach me at [agrawalwadi45@gmail.com](mailto:agrawalwadi45@gmail.com) · [LinkedIn](https://linkedin.com/in/aditya-agrawal-65b59120b/) · [Portfolio](https://portfolio-website-aditya-agrawal.vercel.app/)
+📫 [Email](mailto:agrawalwadi45@gmail.com) · [LinkedIn](https://linkedin.com/in/aditya-agrawal-65b59120b/) · [Website](https://portfolio-website-aditya-agrawal.vercel.app/) · [Medium](https://medium.com/@agrawaladi45) · [Hashnode](https://hashnode.com/@adityagrawal45) · [Dev.to](https://dev.to/adityagrawal45)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityagrawal45&color=ff6a3d&style=flat-square&label=Profile+Views)
 
