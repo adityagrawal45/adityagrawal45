@@ -29,8 +29,8 @@ I care about the whole system, not just the model call — retrieval pipelines,
 multi-model routing, async verification loops, and the audit trail that lets a team
 trust what an AI system is actually doing in production.
 
-- 🔭 Currently building **[LLM Cost Autopilot](https://github.com/adityagrawal45/llm-cost-autopilot)** — a routing layer that classifies request complexity and auto-routes to the cheapest model that can handle it, cutting inference costs by up to **70%**
-- 🧠 Focus areas: **RAG · multi-model routing · agentic workflows · vector retrieval · cost optimization**
+- Currently building **[LLM Cost Autopilot](https://github.com/adityagrawal45/llm-cost-autopilot)** — a routing layer that classifies request complexity and auto-routes to the cheapest model that can handle it, cutting inference costs by up to **70%**
+- Focus areas: **RAG · multi-model routing · agentic workflows · vector retrieval · cost optimization**
 - 🛠️ Day-to-day stack: **Python, FastAPI, LangChain, Spring Boot, Angular**
 - ✍️ I write about AI infra, LLM systems, and backend engineering — links below
 - 📍 Based in Mumbai, India
