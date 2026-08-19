@@ -31,7 +31,7 @@ trust what an AI system is actually doing in production.
 
 - Currently building **[LLM Cost Autopilot](https://github.com/adityagrawal45/llm-cost-autopilot)** — a routing layer that classifies request complexity and auto-routes to the cheapest model that can handle it, cutting inference costs by up to **70%**
 - Focus areas: **RAG · multi-model routing · agentic workflows · vector retrieval · cost optimization**
-- 🛠️ Day-to-day stack: **Python, FastAPI, LangChain, Spring Boot, Angular**
+- Day-to-day stack: **Python, FastAPI, LangChain, Spring Boot, Angular**
 - ✍️ I write about AI infra, LLM systems, and backend engineering — links below
 - 📍 Based in Mumbai, India
 - 🤝 Open to: collaborations on AI/ML projects, technical discussions, and open-source contributions
