@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ About me
+### About me
 
 I'm a **Software Engineer at Accenture**, building production AI systems at the
 intersection of backend engineering and applied ML. Most recently I shipped a
