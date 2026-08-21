@@ -34,7 +34,7 @@ trust what an AI system is actually doing in production.
 - Day-to-day stack: **Python, FastAPI, LangChain, Spring Boot, Angular**
 - I write about AI infra, LLM systems, and backend engineering — links below
 - Based in Mumbai, India
-- 🤝 Open to: collaborations on AI/ML projects, technical discussions, and open-source contributions
+- Open to: collaborations on AI/ML projects, technical discussions, and open-source contributions
 
 ---
 
