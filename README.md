@@ -38,7 +38,7 @@ trust what an AI system is actually doing in production.
 
 ---
 
-### ✍️ Where I write
+### Where I write
 
 | Platform | Link | What's there |
 |---|---|---|
