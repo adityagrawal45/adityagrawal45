@@ -49,7 +49,7 @@ trust what an AI system is actually doing in production.
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 **AI / LLM**
 
