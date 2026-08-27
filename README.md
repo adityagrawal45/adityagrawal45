@@ -43,7 +43,7 @@ trust what an AI system is actually doing in production.
 | Platform | Link | What's there |
 |---|---|---|
 | **Website / Portfolio** | [portfolio-website-aditya-agrawal.vercel.app](https://portfolio-website-aditya-agrawal.vercel.app/) | Projects, resume, everything in one place |
-| 📝 **Medium** | [@agrawaladi45](https://medium.com/@agrawaladi45) | Deep dives on AI/LLM system design |
+| **Medium** | [@agrawaladi45](https://medium.com/@agrawaladi45) | Deep dives on AI/LLM system design |
 | 🐦‍⬛ **Hashnode** | [@adityagrawal45](https://hashnode.com/@adityagrawal45) | Backend + AI engineering notes |
 | 💻 **Dev.to** | [@adityagrawal45](https://dev.to/adityagrawal45) | Quick tips, tutorials, and dev logs |
 
