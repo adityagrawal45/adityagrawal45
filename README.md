@@ -95,7 +95,7 @@ trust what an AI system is actually doing in production.
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
 <tr>
