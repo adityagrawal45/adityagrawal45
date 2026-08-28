@@ -109,7 +109,7 @@ do the job well — with an async verification loop that self-improves over time
 
 `Python` `FastAPI` `scikit-learn` `Docker`
 
-📉 70% cost reduction · 🎯 87.8% classifier accuracy
+📉 70% cost reduction · 87.8% classifier accuracy
 
 </td>
 <td width="50%">
