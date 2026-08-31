@@ -137,7 +137,7 @@ audit logging for compliance.
 
 `LangChain` `FastAPI` `PostgreSQL` `Angular`
 
-🎯 2,000+ users · 40% ticket reduction · 90% faster responses
+2,000+ users · 40% ticket reduction · 90% faster responses
 
 </td>
 <td width="50%">
