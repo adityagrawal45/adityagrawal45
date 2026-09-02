@@ -150,7 +150,7 @@ production monitoring.
 
 `Apache Kafka` `Apache Spark` `PostgreSQL`
 
-🚀 99.9% uptime · <1s latency for 95th percentile
+99.9% uptime · <1s latency for 95th percentile
 
 </td>
 </tr>
