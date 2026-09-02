@@ -122,7 +122,7 @@ insights for downstream alerting.
 
 `Spring Boot` `Machine Learning` `Redis`
 
-⚡ ~500ms end-to-end detection latency
+ ~500ms end-to-end detection latency
 
 </td>
 </tr>
