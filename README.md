@@ -158,7 +158,7 @@ production monitoring.
 
 ---
 
-### 💡 What I'm learning
+### What I'm learning
 
 - 🎓 **Advanced LLM fine-tuning** — exploring parameter-efficient methods (LoRA, QLoRA) for domain-specific models
 - 🔬 **Multimodal AI systems** — building integrated workflows that handle text, images, and structured data
