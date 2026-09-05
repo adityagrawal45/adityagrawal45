@@ -161,7 +161,7 @@ production monitoring.
 ### What I'm learning
 
 - 🎓 **Advanced LLM fine-tuning** — exploring parameter-efficient methods (LoRA, QLoRA) for domain-specific models
-- 🔬 **Multimodal AI systems** — building integrated workflows that handle text, images, and structured data
+- **Multimodal AI systems** — building integrated workflows that handle text, images, and structured data
 - 🏗️ **Distributed systems design** — deepening expertise in consistency models and fault tolerance patterns
 - 📊 **Observability & monitoring** — implementing comprehensive tracing for complex ML pipelines
 
