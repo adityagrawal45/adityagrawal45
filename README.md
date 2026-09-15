@@ -167,7 +167,7 @@ production monitoring.
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
