@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1000&color=FF6A3D&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aditya+Agrawal;Software+Engineer+%40+Accenture;I+build+AI%2FLLM+systems+in+production;RAG+%C2%B7+Multi-Model+Routing+%C2%B7+Agentic+Workflows" alt="Typing SVG" />
 
@@ -163,7 +163,7 @@ production monitoring.
 - **Advanced LLM fine-tuning** — exploring parameter-efficient methods (LoRA, QLoRA) for domain-specific models
 - **Multimodal AI systems** — building integrated workflows that handle text, images, and structured data
 - 🏗️ **Distributed systems design** — deepening expertise in consistency models and fault tolerance patterns
-- 📊 **Observability & monitoring** — implementing comprehensive tracing for complex ML pipelines
+- 📊 ** Observability & monitoring** — implementing comprehensive tracing for complex ML pipelines
 
 ---
 
